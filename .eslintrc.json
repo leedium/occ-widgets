@@ -1,0 +1,11 @@
+{
+  "extends": "prettier",
+  "rules": {
+    "semi": [2, "always"]
+  },
+  "env": {
+    "es6": true,
+    "browser": true
+  },
+  "plugins": ["prettier", "json"]
+}
